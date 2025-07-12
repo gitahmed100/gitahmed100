@@ -45,26 +45,7 @@ My interests span <em>Power BI dashboards</em>, <em>information retrieval system
 
 ---
 
-<h2>🏆 Achievements</h2>
 
-<ul>
-  <li>🥇 <strong>1st Place</strong> – IEEE Victoris IOT Competition</li>
-  <li>🌍 <strong>Yale Young African Scholars</strong> – New York, 2022</li>
-  <li>🏁 <strong>Top 10</strong> – UNICEF Youth Challenge 3.0</li>
-  <li>🧠 <strong>ECPC 2024</strong> – Top 6% from 2400+ teams</li>
-</ul>
-
----
-
-<h2>🧑‍🏫 Extracurriculars</h2>
-
-<ul>
-  <li>👨‍🏫 Python Trainer @ Mawaheb Academy (ages 7–18)</li>
-  <li>🎓 Junior TA @ Zewail City – Intro to Computer Networking</li>
-  <li>📣 Marketing Head & Organizer – IEEE Zewail City</li>
-</ul>
-
----
 
 <h2>🌐 Connect With Me</h2>
 
