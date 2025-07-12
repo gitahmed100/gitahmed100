@@ -1,62 +1,71 @@
-<h1 align="center">👋 Hi, I'm Ahmed Niazy Mahdy</h1>
+<h1 align="center">👋 Hey there, I'm <strong>Ahmed Niazy Mahdy</strong></h1>
 
 <p align="center">
-  <strong>🎓 Computer Science Undergraduate @ Zewail City of Science and Technology</strong><br>
-  <strong>📊 Data Science & Artificial Intelligence</strong><br>
+  🎓 <strong>Computer Science Undergraduate</strong> @ Zewail City of Science and Technology <br>
+  📊 <strong>Specializing in Data Science & Artificial Intelligence</strong> <br>
   📍 Giza, Egypt
 </p>
 
-<hr>
+<br>
 
-<h2>💼 About Me</h2>
-
-<p>
-I'm a data-driven computer science student passionate about uncovering insights and building smart systems from raw information.
-From <strong>data acquisition and preprocessing</strong> to <strong>exploratory analysis, visualization, and machine learning</strong>, I enjoy the full journey of turning data into decisions.<br>
-My interests span <em>Power BI dashboards</em>, <em>information retrieval systems</em>, <em>predictive modeling</em>, and <em>data mining</em>—always focused on real-world applications and clear impact.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gitahmed100&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/gitahmed100?label=Followers&style=flat&color=green" alt="GitHub Followers" />
 </p>
-
 
 ---
 
-<h2>🔧 Technical Skills</h2>
+## 💼 About Me
+
+🎯 I'm a **data-focused CS student** passionate about transforming raw information into impactful insights and smart systems.  
+🔍 From **data acquisition and preprocessing** to **analysis, visualization, and machine learning**, I enjoy the full journey of data.  
+🚀 I'm deeply interested in:
+- 📊 **Power BI Dashboards**
+- 🔎 **Information Retrieval**
+- 🧠 **Predictive Modeling**
+- 🪓 **Data Mining**
+
+---
+
+## 🛠️ Technical Skills
 
 <table>
   <tr>
-    <td><strong>Languages</strong></td>
-    <td>Python, C++, C#, JS, SQL</td>
+    <td><strong>💻 Languages</strong></td>
+    <td>Python, C++, C#, JavaScript, SQL</td>
   </tr>
   <tr>
-    <td><strong>Web & Mobile</strong></td>
+    <td><strong>🌐 Web & Mobile</strong></td>
     <td>HTML, CSS, React</td>
   </tr>
   <tr>
-    <td><strong>Frameworks & Tools</strong></td>
-    <td>NumPy, pandas, matplotlib, seaborn, OpenCV, scikit-learn, Git</td>
+    <td><strong>⚙️ Libraries & Tools</strong></td>
+    <td>NumPy, pandas, seaborn, matplotlib, scikit-learn, OpenCV, Git</td>
   </tr>
   <tr>
-    <td><strong>Visualization</strong></td>
-    <td>PowerBI, Tableau, Excel</td>
+    <td><strong>📈 Visualization</strong></td>
+    <td>Power BI, Tableau, Excel</td>
   </tr>
 </table>
 
 ---
 
-
----
-
-
-
-<h2>🌐 Connect With Me</h2>
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/gitahmed100"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/ahmed-niazy-51777a313"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:ahmedg2sec@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/gitahmed100">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmed-niazy-51777a313">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ahmedg2sec@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
 ---
 
-<p align="center"><em>“Artificial Intelligence is the tool — but understanding data is the real superpower.”</em></p>
-
----
+<p align="center">
+  <em>💡 “Artificial Intelligence is the tool — but understanding data is the real superpower.”</em>
+</p>
