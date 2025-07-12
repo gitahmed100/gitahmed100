@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmN2cWRzY2ttZWhzNWVtZGl0dHFrZ3FnOWxhd2t0cG9uZXpyZmExMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" alt="banner" />
+</p>
+
 <h1 align="center">👋 Hey there, I'm <strong>Ahmed Niazy Mahdy</strong></h1>
 
 <p align="center">
@@ -5,8 +9,6 @@
   📊 <strong>Specializing in Data Science & Artificial Intelligence</strong> <br>
   📍 Giza, Egypt
 </p>
-
-<br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gitahmed100&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -17,13 +19,20 @@
 
 ## 💼 About Me
 
-🎯 I'm a **data-focused CS student** passionate about transforming raw information into impactful insights and smart systems.  
-🔍 From **data acquisition and preprocessing** to **analysis, visualization, and machine learning**, I enjoy the full journey of data.  
-🚀 I'm deeply interested in:
-- 📊 **Power BI Dashboards**
-- 🔎 **Information Retrieval**
-- 🧠 **Predictive Modeling**
-- 🪓 **Data Mining**
+I’m a tech enthusiast and CS student with a strong focus on **data intelligence and system development**.
+
+Whether it’s building a search engine, analyzing business attrition trends, or mining massive datasets—I'm passionate about designing real-world solutions.
+
+🔍 I work across the **full data pipeline**:
+- 🧺 **Data acquisition** through APIs, web scraping, and SQL pipelines.
+- 🧹 **Preprocessing** for wrangling messy data into structured gold.
+- 📊 **Exploratory analysis & dashboards** with tools like Power BI, Tableau, and pandas.
+- 🤖 **Machine Learning & Deep Learning** for predictive modeling and intelligent systems.
+- 🧠 Currently exploring **RNNs**, **LSTMs**, and **transformers** for smart applications.
+- 🔎 Special interest in **Information Retrieval**, **search engine design**, and **ranking models** like BM25 & Word2Vec.
+- 🗄️ I also enjoy working with **web databases** and building data-driven backends for real-world apps.
+
+From structured enterprise data to real-time scraped content — I love transforming chaos into clarity.
 
 ---
 
