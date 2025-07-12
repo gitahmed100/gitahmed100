@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmN2cWRzY2ttZWhzNWVtZGl0dHFrZ3FnOWxhd2t0cG9uZXpyZmExMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" alt="banner" />
+  <img <p align="center">
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="60%" alt="developer banner" />
+</p>
+
 </p>
 
 <h1 align="center">👋 Hey there, I'm <strong>Ahmed Niazy Mahdy</strong></h1>
