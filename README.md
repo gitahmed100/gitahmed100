@@ -1,7 +1,7 @@
 <p align="center">
-  <img <p align="center">
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="60%" alt="developer banner" />
+  <img src="https://github.com/ritik307/ritik307/blob/main/images/banner.gif?raw=true" width="70%" alt="Data Banner" />
 </p>
+
 
 </p>
 
